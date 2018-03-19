@@ -1,3 +1,5 @@
+![Semantic UI Sketch Styleguide thumbnail](https://github.com/stoneddesigner/semantic-ui-sketch/raw/master/thumb.png)
+
 # Semantic UI Sketch Styleguide v0.5
 
 The goal of this styleguide is to document all the [**Semantic UI**](http://semantic-ui.com) components as a **Sketch symbol library** to make the prototyping of SUI projects easier. The mission is to strive to follow the same standards Semantic UI sets forth with it's semantic and atomic basis for it's design system. 
